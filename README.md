@@ -1,4 +1,5 @@
 **DigitLang**
+
 ***Syntaxis***
 There is only one command in the DigitLang. This is the number of the character in the [[ASCII]] table.
 
